@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushka-me&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushka-me&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushka-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushka-sys&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=dhanushka-me&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dhanushka-sys&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushka-me&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushka-sys&theme=tokyo-night"/>
 </p>
 
 ---
@@ -91,11 +91,11 @@
 ## 📫 Connect
 
 <p align="center">
-<a href="https://github.com/dhanushka-me">
+<a href="https://github.com/dhanushka-sys">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-⭐ Built with focus by dhanushka-me
+⭐ Built with focus by dhanushka-sys

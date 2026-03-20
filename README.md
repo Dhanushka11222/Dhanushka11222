@@ -1,24 +1,44 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Dhanushka</h1>
-<h3 align="center">Software Engineering Student | Passionate about Building Real-World Systems</h3>
+
+<h1 align="center">Dhanushka</h1>
+<h3 align="center">Systems-Oriented Software Engineer | Backend • Architecture • Problem Solving</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering%20Student;Problem%20Solver;Technology%20Enthusiast;Building%20Real%20World%20Systems&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thinking%20in%20Systems;Building%20Real%20World%20Software;Backend%20Focused;Consistency%20over%20Motivation;Discipline%20Driven&center=true&width=600&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering Student  
-- 💡 Interested in building real-world software systems  
-- 🚀 Exploring modern technologies and software architecture  
-- 📚 Constantly learning and improving development skills  
-- 🌍 Open to collaboration on interesting projects  
+* 🎓 Software Engineering student with a focus on **real-world systems**
+* ⚙️ I design how things work — not just how they look
+* 🧩 Strong interest in **backend development & system architecture**
+* 📚 Learning deeply instead of rushing through tools
+* 🔍 I prefer **understanding concepts over memorizing syntax**
+* ⚡ Building discipline to stay consistent, not temporary motivation
 
 ---
 
-## 🛠️ Technology Stack
+## 🚀 Current Focus
+
+* 🧠 Improving **problem-solving & logical thinking**
+* ⚙️ Building **real-world projects (not tutorial clones)**
+* 📦 Learning **scalable backend systems**
+* 🔥 Becoming consistent in coding and learning
+
+---
+
+## ⚡ Engineering Philosophy
+
+* Simplicity > Complexity
+* Logic > Hype
+* Discipline > Motivation
+* Real Skills > Certificates
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,html,css,js,tailwind,java,python,mysql,react,nodejs" />
@@ -26,14 +46,11 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhanushka11222&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushka11222&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -46,15 +63,7 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhanushka11222&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushka11222&theme=tokyo-night"/>
@@ -70,6 +79,15 @@
 
 ---
 
+## 📌 Featured Direction
+
+* 🔧 Backend Systems
+* ⚙️ Software Architecture
+* 🧠 Problem Solving
+* 🌍 Real-World Applications
+
+---
+
 ## 📫 Connect
 
 <p align="center">
@@ -80,4 +98,4 @@
 
 ---
 
-⭐ From [Dhanushka11222](https://github.com/Dhanushka11222)
+⭐ Built with focus by Dhanushka
